@@ -1,6 +1,7 @@
-Flask==2.3.3
-tensorflow==2.13.0
-Pillow==10.1.0
-numpy==1.26.0
-mysql-connector-python==8.1.1
+Flask==2.3.6
+numpy
+tensorflow
+Pillow
+mysql-connector-python
+Werkzeug
 gunicorn==21.2.0
